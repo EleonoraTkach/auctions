@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Личный кабинет</title>
+    <link rel="stylesheet" href="./style/menuDontAvtorization.css">
+</head>
+<body>
+    <div class="navbar">
+        <a href="#">Выход из системы</a>
+        <a href="#">Управление аккаунтами</a>
+        <a href="#">Подтверждение аукционов</a>
+		<a href="#">Информация о профиле</a>
+    </div>
+    <div class="content">
+        <!-- Здесь будет основной контент личного кабинета -->
+        <h1>Добро пожаловать в личный кабинет!</h1>
+        <p>Здесь вы можете управлять своим аккаунтом и подтверждать аукционы.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+.navbar {
+	position:absolute;
+	left: 0px;
+	width:120px;
+	height:100vh;
+	background-color:#F1C97D;
+	display: flex;
+	flex-direction: column;
+}
+.navbar a {
+	height:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+	color:black;
+}
+
+.navbar a:hover {
+	background-color: #F8E1B6;
+}
